@@ -1,0 +1,2 @@
+rootProject.name='HikvisionCamera'
+include ':hikcamera', ':liveRtmpPushSDK', ':comalexlivertmppushsdkdemo'
